@@ -68,12 +68,12 @@ image{
     height: 150px;
     max-width: 200px;
     max-height: 150px;
-  background-image: url("Rabat\ -1_0.jpg");
+  background-image: url("./img.jpg");
   background-repeat: no-repeat;
 }
 
 body{
-    background-image: url(../Rabat\ -1_0.jpg);
+    background-image: url("./img.jpg");
     background-size: cover;
 }
 .test1{
