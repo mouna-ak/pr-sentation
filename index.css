@@ -94,6 +94,7 @@ body{
 .blank{
     color: aliceblue;
     margin-left: 100px;
+    margin-top: 0;
 }
 
 .final input{
